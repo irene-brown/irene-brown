@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Irene 👋
+I like creating useful and fancy tools for developers. I also like backend development.
+Contact with me if you want a new shiny command-line or GUI tool, I'll be happy to help you!
+
 
 <!--
 **irene-brown/irene-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

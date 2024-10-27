@@ -1,5 +1,5 @@
 ************************************************************************************************
-## Hi, I'm Irene 👋
+## _Hi, I'm Irene!_
 I like creating useful and fancy tools for developers. I also like backend development.
 Contact with me if you want a new shiny command-line or GUI tool, I'll be happy to help you!
 ************************************************************************************************

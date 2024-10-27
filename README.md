@@ -15,7 +15,7 @@ Contact with me if you want a new shiny command-line or GUI tool, I'll be happy 
 
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
-
+![K8](https://img.shields.io/badge/k8-000000?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 ************************************************************************************************
 
 

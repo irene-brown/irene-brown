@@ -3,7 +3,7 @@
 I like creating useful and fancy tools for developers. I also like backend development.
 Contact with me if you want a new shiny command-line or GUI tool, I'll be happy to help you!
 ************************************************************************************************
-### My skills
+### My stack & background
 ##### Languages
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=ffffff)

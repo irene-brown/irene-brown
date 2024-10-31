@@ -1,7 +1,6 @@
 ************************************************************************************************
 ## _Hi, I'm Irene!_
-I like creating useful and fancy tools for developers. I also like backend development.
-Contact with me if you want a new shiny command-line or GUI tool, I'll be happy to help you!
+Crafting the code that powers the code. Developer of tools for developers, driven by a passion for simplicity, elegance, and productivity. Helping other devs build, create, and innovate with ease.
 ************************************************************************************************
 ### Email & social
 ![Email](https://img.shields.io/badge/protonmail-000000?style=for-the-badge&logo=proton)

@@ -8,7 +8,7 @@ Crafting the code that powers the code. Developer of tools for developers, drive
 ![Mastodon](https://img.shields.io/badge/mastodon-000000?style=for-the-badge&logo=mastodon)
 
 ### My skills & background
-##### Languages
+
 ![Python](https://img.shields.io/badge/python-3B8EDE?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/ruby-9B2D2D?style=for-the-badge&logo=ruby&logoColor=ffffff)
 ![C](https://img.shields.io/badge/c%2fc++-005C99?style=for-the-badge&logo=c&logoColor=ffffff)
@@ -17,7 +17,6 @@ Crafting the code that powers the code. Developer of tools for developers, drive
 ![Rust](https://img.shields.io/badge/rust-8B0000?style=for-the-badge&logo=rust&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-ee5500?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
-##### Frameworks
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff)
@@ -25,12 +24,10 @@ Crafting the code that powers the code. Developer of tools for developers, drive
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/nodejs-68A063?style=for-the-badge&logo=nodejs&logoColor=ffffff)
 
-##### DevOps tools
 ![Git](https://img.shields.io/badge/git-ff6600?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/docker-0088ff?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![K8s](https://img.shields.io/badge/k8s-0088ff?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 
-##### Operating systems
 ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/windows-0066cc?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![MacOs](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=ffffff)
